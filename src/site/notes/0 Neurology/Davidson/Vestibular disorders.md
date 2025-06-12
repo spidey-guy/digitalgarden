@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/0-neurology/davidson/vestibular-disorders/","dgPassFrontmatter":true,"created":"2025-05-07T20:53:11.023+06:30","updated":"2025-06-13T00:09:27.793+06:30"}
+---
+
+Vertigo is the typical symptom caused by vestibular dysfunction, and most patients with vertigo have acute vestibular failure, benign paroxysmal positional vertigo or Ménière's disease. Central (brain) causes of vertigo are rare by comparison, with the exception of migraine.
+
+# Acute vestibular failure
+Although commonly called ‘labyrinthitis’ or ‘vestibular neuronitis’, acute vestibular failure is a more accurate term, as most cases are idiopathic. It usually presents as isolated severe vertigo with vomiting and unsteadiness. It begins abruptly, often on waking, and many patients are initially bed-bound. The vertigo settles within a few days, though head movement may continue to provoke transient symptoms (positional vertigo) for some time. During the acute attack, nystagmus will be present for a few days. Cinnarizine, prochlorperazine or betahistine provide symptomatic relief
+but should not be used long term, as this may delay recovery. A small proportion of patients fail to recover fully and complain of ongoing imbalance and dysequilibrium rather than vertigo; vestibular rehabilitation by a physiotherapist may help.
+
+# Benign paroxysmal positional vertigo
+Benign paroxysmal positional vertigo (BPPV) is due to the presence of otolithic debris from the saccule or utricle affecting the free ow of endolymph in the semicircular canals (cupulolithiasis). It may follow minor head injury but typically is spontaneous. The history is diagnostic, with transient (seconds) vertigo precipitated by movement (typically, rolling over in bed or getting into or out of bed). Although it is benign, and usually self-limiting after weeks or months, patients are often alarmed by the symptoms. The diagnosis can be conrmed by the ‘Hallpike manoeuvre’ to demonstrate positional nystagmus (Fig. 28.24). Treatment comprises explanation and reassurance, along with positioning procedures designed to return otolithic debris from the semicircular canal to saccule or utricle (such as the Epley manoeuvre) and/or to re-educate the brain to cope with the inappropriate signals from the labyrinth (such as Cawthorne–Cooksey exercises: see ‘Further information’).
+
+[[0 Neurology/Davidson/Attachments/Davidson Neurology 16.webp|Fig. 28.24 The Hallpike manoeuvre for diagnosis of benign paroxysmal positional vertigo (BPPV).]]
+
+# Ménière disease
+This is due to an abnormality of the endolymph that causes episodes of vertigo accompanied by tinnitus and fullness in the ear, each attack typically lasting a few hours. Over the years, patients may develop progressive deafness (typically low-tone on audiometry). Examination is typically normal in between attacks. The diagnosis is clinical, supported by abnormal audiometry. Ménière disease is idiopathic but a similar syndrome may be caused by middle ear trauma or infection. Imaging may be indicated to exclude other focal brainstem or cerebellopontine angle pathology but will be normal in Ménière disease. Management includes a low-salt diet, vestibular sedatives for acute attacks (e.g. cinnarizine or prochlorperazine), and occasionally surgery to increase endolymphatic drainage from the vestibular system. Migraine may also cause episodic vertigo, and can be confused with Ménière disease, although usually other migrainous features will appear in the history.

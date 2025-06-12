@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/0-neurology/davidson/disorders-of-cerebellar-function/","dgPassFrontmatter":true,"created":"2025-05-09T22:17:19.319+06:30","updated":"2025-06-13T00:10:08.402+06:30"}
+---
+
+Cerebellar dysfunction can manifest as incoordination of limb function, gait ataxia, speech or eye movements. Acute dysfunction may be caused by alcohol or prescription drugs (especially the sodium channel-blocking antiepileptic drugs phenytoin and carbamazepine). Inammatory changes in the cerebellum may cause symptoms in the aftermath of some infections (especially herpes zoster) or as a paraneoplastic phenomenon. The hereditary spinocerebellar ataxias are described on page 1169; they manifest as progressive ataxias in middle and old age, often with other neurological features that aid specic diagnosis.
